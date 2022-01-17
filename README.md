@@ -1,5 +1,5 @@
 # Classification-des-images-de-race-chiens
-
+#Voici l'api que nous avons mis en place pour aider l'association à prédire les differents races de chien 
 ![Capture2](https://user-images.githubusercontent.com/76251361/149827155-e514fe3f-4d6f-4d85-9ac7-a2688c71ecc9.PNG)
 ![Capture3a](https://user-images.githubusercontent.com/76251361/149827165-51dfe031-d960-46a8-aed6-0a4320d00692.PNG)
 ![Capture3b](https://user-images.githubusercontent.com/76251361/149827171-280b4470-9d6a-46c4-b9fb-d95460d9ecdc.PNG)
