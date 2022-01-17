@@ -1,4 +1,7 @@
 # Classification-des-images-de-race-chiens
-![Capture4](https://user-images.githubusercontent.com/76251361/149826576-0e2f0843-a271-4f16-b0d4-437fb49da1c4.PNG)
-![Capture3](https://user-images.githubusercontent.com/76251361/149826612-3e72f1bd-0a16-47ee-a995-1d477c22a73c.PNG)
-![Capture3b](https://user-images.githubusercontent.com/76251361/149826653-ce4ef86b-3fd3-4c8c-a61e-441d1966bee3.PNG)
+
+![Capture2](https://user-images.githubusercontent.com/76251361/149827155-e514fe3f-4d6f-4d85-9ac7-a2688c71ecc9.PNG)
+![Capture3a](https://user-images.githubusercontent.com/76251361/149827165-51dfe031-d960-46a8-aed6-0a4320d00692.PNG)
+![Capture3b](https://user-images.githubusercontent.com/76251361/149827171-280b4470-9d6a-46c4-b9fb-d95460d9ecdc.PNG)
+![Capture4](https://user-images.githubusercontent.com/76251361/149827177-1d045144-e9bf-4dda-97b1-99d189b0d48d.PNG)
+![Capture5](https://user-images.githubusercontent.com/76251361/149827193-486773d5-ad80-4710-ae2f-0d8ae520244f.PNG)
